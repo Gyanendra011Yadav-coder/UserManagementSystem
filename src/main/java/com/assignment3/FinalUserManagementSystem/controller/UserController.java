@@ -9,11 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * Created By:  Gyanendra_Yadav
- * on 2023-11-03,Nov,2023
- * in Project: FinalUserManagementSystem
- */
+
 @RestController
 @RequestMapping("/api/users")
 public class UserController {
