@@ -2,11 +2,6 @@ package com.assignment3.FinalUserManagementSystem.entity;
 
 import javax.persistence.*;
 
-/**
- * Created By:  Gyanendra_Yadav
- * on 2023-11-03,Nov,2023
- * in Project: FinalUserManagementSystem
- */
 
 @Entity
 @Table(name = "roles")
