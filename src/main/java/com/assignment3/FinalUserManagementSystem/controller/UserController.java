@@ -29,7 +29,7 @@ public class UserController {
     @PostMapping(path = "/addUsers", headers = "Accept=application/json")
     public ResponseBean addUser(@RequestBody UserEntity user) {
         userServiceImpl.saveUserDetails(user);
-        return new ResponseBean<>(ResponseCodeMsgs.SUCCESS_CODE.getValue(), ResponseCodeMsgs.DATA_SAVED_SUCCESSFULLY, null);
+        return new ResponseBean<>(ResponseCodeMsgs.SUCCESS_CODE.getValue(), ResponseCodeMsgs.DATA_SAVED_SUCCESSFULLY, user);
     }
 
 }
