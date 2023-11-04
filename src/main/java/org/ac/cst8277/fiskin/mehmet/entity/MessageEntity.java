@@ -1,4 +1,4 @@
-package com.assignment3.FinalUserManagementSystem.entity;
+package org.ac.cst8277.fiskin.mehmet.entity;
 
 import javax.persistence.*;
 import java.sql.Timestamp;

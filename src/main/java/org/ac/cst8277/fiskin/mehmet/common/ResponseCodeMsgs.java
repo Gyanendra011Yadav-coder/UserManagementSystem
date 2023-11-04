@@ -1,4 +1,4 @@
-package com.assignment3.FinalUserManagementSystem.common;
+package org.ac.cst8277.fiskin.mehmet.common;
 
 import java.util.HashMap;
 import java.util.Map;

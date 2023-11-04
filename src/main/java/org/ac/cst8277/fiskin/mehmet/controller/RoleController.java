@@ -1,9 +1,9 @@
-package com.assignment3.FinalUserManagementSystem.controller;
+package org.ac.cst8277.fiskin.mehmet.controller;
 
-import com.assignment3.FinalUserManagementSystem.common.ResponseBean;
-import com.assignment3.FinalUserManagementSystem.common.ResponseCodeMsgs;
-import com.assignment3.FinalUserManagementSystem.entity.RoleEntity;
-import com.assignment3.FinalUserManagementSystem.service.RoleServiceImpl;
+import org.ac.cst8277.fiskin.mehmet.common.ResponseBean;
+import org.ac.cst8277.fiskin.mehmet.common.ResponseCodeMsgs;
+import org.ac.cst8277.fiskin.mehmet.entity.RoleEntity;
+import org.ac.cst8277.fiskin.mehmet.service.RoleServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

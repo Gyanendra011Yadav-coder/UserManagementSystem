@@ -1,6 +1,6 @@
-package com.assignment3.FinalUserManagementSystem.dao;
+package org.ac.cst8277.fiskin.mehmet.dao;
 
-import com.assignment3.FinalUserManagementSystem.entity.MessageEntity;
+import org.ac.cst8277.fiskin.mehmet.entity.MessageEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

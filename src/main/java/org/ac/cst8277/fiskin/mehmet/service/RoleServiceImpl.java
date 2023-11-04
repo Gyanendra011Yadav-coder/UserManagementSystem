@@ -1,7 +1,7 @@
-package com.assignment3.FinalUserManagementSystem.service;
+package org.ac.cst8277.fiskin.mehmet.service;
 
-import com.assignment3.FinalUserManagementSystem.dao.RoleRepository;
-import com.assignment3.FinalUserManagementSystem.entity.RoleEntity;
+import org.ac.cst8277.fiskin.mehmet.dao.RoleRepository;
+import org.ac.cst8277.fiskin.mehmet.entity.RoleEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
