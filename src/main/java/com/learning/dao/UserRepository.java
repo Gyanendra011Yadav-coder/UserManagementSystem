@@ -1,6 +1,6 @@
-package org.ac.cst8277.fiskin.mehmet.dao;
+package com.learning.dao;
 
-import org.ac.cst8277.fiskin.mehmet.entity.UserEntity;
+import com.learning.entity.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

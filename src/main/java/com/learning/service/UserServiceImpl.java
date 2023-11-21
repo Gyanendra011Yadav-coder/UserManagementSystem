@@ -1,7 +1,7 @@
-package org.ac.cst8277.fiskin.mehmet.service;
+package com.learning.service;
 
-import org.ac.cst8277.fiskin.mehmet.dao.UserRepository;
-import org.ac.cst8277.fiskin.mehmet.entity.UserEntity;
+import com.learning.dao.UserRepository;
+import com.learning.entity.UserEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

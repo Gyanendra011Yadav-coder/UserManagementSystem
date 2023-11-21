@@ -1,9 +1,9 @@
-package org.ac.cst8277.fiskin.mehmet.controller;
+package com.learning.controller;
 
-import org.ac.cst8277.fiskin.mehmet.common.ResponseBean;
-import org.ac.cst8277.fiskin.mehmet.common.ResponseCodeMsgs;
-import org.ac.cst8277.fiskin.mehmet.entity.RoleEntity;
-import org.ac.cst8277.fiskin.mehmet.service.RoleServiceImpl;
+import com.learning.common.ResponseBean;
+import com.learning.common.ResponseCodeMsgs;
+import com.learning.entity.RoleEntity;
+import com.learning.service.RoleServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
