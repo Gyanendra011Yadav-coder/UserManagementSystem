@@ -1,4 +1,4 @@
-package org.ac.cst8277.fiskin.mehmet.common;
+package com.learning.common;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package org.ac.cst8277.fiskin.mehmet.entity;
+package com.learning.entity;
 
 import javax.persistence.*;
 import java.sql.Timestamp;

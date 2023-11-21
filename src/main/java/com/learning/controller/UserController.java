@@ -1,9 +1,9 @@
-package org.ac.cst8277.fiskin.mehmet.controller;
+package com.learning.controller;
 
-import org.ac.cst8277.fiskin.mehmet.common.ResponseBean;
-import org.ac.cst8277.fiskin.mehmet.common.ResponseCodeMsgs;
-import org.ac.cst8277.fiskin.mehmet.entity.UserEntity;
-import org.ac.cst8277.fiskin.mehmet.service.UserServiceImpl;
+import com.learning.common.ResponseBean;
+import com.learning.common.ResponseCodeMsgs;
+import com.learning.entity.UserEntity;
+import com.learning.service.UserServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
